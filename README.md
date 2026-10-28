@@ -2,7 +2,7 @@
 
 An Arduino Uno based solar tracker simulated in TinkerCAD. Four LDRs measure light from four directions, and two servos turn and tilt the panel toward the brighter side.
 
-**TinkerCAD simulation:** PASTE_YOUR_LINK_HERE (set to "anyone with the link can view")
+**TinkerCAD simulation:** https://www.tinkercad.com/things/j3N7EPWplI1-shreya-bhayani-task-2/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall&sharecode=I8Gx7D3aX2p01O6AaTQvovpGeuogrL7pweMEPx1qUyU
 
 ## Contents
 
